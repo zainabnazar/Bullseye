@@ -3,7 +3,10 @@ The challenge this week is to generate a square dartboard of side length n. The 
 Rewards:<br>
 
 :four:  Points are awarded for generating a dartboard of any given size (where n > 0).<br>
-:three:  Further points are awarded for using only 1 loop.
-:three:  Further points are awarded for generating circular* dartboards.
+:three:  Further points are awarded for using only 1 loop.<br>
+:three:  Further points are awarded for generating circular* dartboards.<br>
 
 * You should print spaces to represent the area outside of the board.
+# Example:
+For a square dartboard of size 8, the expected output would look something like:
+
