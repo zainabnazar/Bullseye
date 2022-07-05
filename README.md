@@ -9,4 +9,25 @@ Rewards:<br>
 * You should print spaces to represent the area outside of the board.
 # Example:
 For a square dartboard of size 8, the expected output would look something like:
+```
+11111111
+12222221
+12333321
+12344321
+12344321
+12333321
+12222221
+11111111
+```
 
+# Tests:
+run npm install jest
+```
+npm run test
+```
+
+# Run:
+```
+node bullseye.js
+```
+then enter the lenght value in the CL and press enter
