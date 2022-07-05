@@ -1,0 +1,15 @@
+{
+  "name": "bullseye",
+  "version": "1.0.0",
+  "description": "coding challenge - challenge 9",
+  "main": "bullseye.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  },
+  "dependencies": {}
+}
