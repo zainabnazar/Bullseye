@@ -27,13 +27,13 @@ npm run test
 ```
 
 # Running the Code
-To Run the square dartboard 
+To run the square dartboard 
 ```
 node bullseye.js
 ```
 then enter the lenght between 0 and 18 in the CL and press enter
 
-To Run the semi-circle dartboard!
+To run the semi-circle dartboard!
 ```
 node circle.js
 ```
