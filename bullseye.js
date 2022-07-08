@@ -28,4 +28,5 @@ function makeSquare(string) {
 };
   };
 
+
 module.exports = makeSquare;
