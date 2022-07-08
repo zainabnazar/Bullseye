@@ -5,5 +5,5 @@ test("Throw error when passing a length less 0", () => {
   });
 
   test("Throw error when passing a length bigger than 18", () => {
-    expect(makeSquare(-1)).toBe(false);
+    expect(makeSquare(20)).toBe(false);
   });
