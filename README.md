@@ -33,7 +33,7 @@ node bullseye.js
 ```
 then enter the lenght between 0 and 18 in the CL and press enter
 
-To Run the semi cirle dartboard!
+To Run the semi-circle dartboard!
 ```
 node circle.js
 ```
