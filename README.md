@@ -31,10 +31,10 @@ To run the square dartboard
 ```
 node bullseye.js
 ```
-then enter the lenght between 0 and 18 in the CL and press enter
+then enter the length between 0 and 18 in the CL and press enter
 
 To run the semi-circle dartboard!
 ```
 node circle.js
 ```
-then enter the lenght between 0 and 10 in the CL and press enter
+then enter the length between 0 and 10 in the CL and press enter
