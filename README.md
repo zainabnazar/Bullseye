@@ -26,8 +26,15 @@ run npm install jest
 npm run test
 ```
 
-# Run:
+# Running the Code
+To Run the square dartboard 
 ```
 node bullseye.js
 ```
-then enter the lenght value in the CL and press enter
+then enter the lenght between 0 and 18 in the CL and press enter
+
+To Run the semi cirle dartboard!
+```
+node circle.js
+```
+then enter the lenght between 0 and 10 in the CL and press enter
